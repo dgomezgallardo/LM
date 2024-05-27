@@ -1,0 +1,9 @@
+package breakdown.models.entities;
+
+import jakarta.persistence.Entity;
+
+@Entity
+@Entity(name = "PIECES")
+public class Piecces {
+	
+}
