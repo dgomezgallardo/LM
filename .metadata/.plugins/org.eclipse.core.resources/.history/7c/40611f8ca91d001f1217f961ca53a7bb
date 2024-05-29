@@ -1,0 +1,5 @@
+package breakdown.models.entities;
+
+public class CabinetPiece {
+
+}

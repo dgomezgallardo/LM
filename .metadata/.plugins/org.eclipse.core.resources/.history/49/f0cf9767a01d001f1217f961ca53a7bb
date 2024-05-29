@@ -1,0 +1,5 @@
+package breakdown.models.embeddables;
+
+public class CabinetPieceId {
+
+}
