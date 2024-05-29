@@ -1,9 +1,0 @@
-package breakdown.models.entities;
-
-import jakarta.persistence.Entity;
-
-@Entity
-@Table("Pieces")
-public class Piecces {
-	
-}
